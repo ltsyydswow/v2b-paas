@@ -4,7 +4,7 @@ import threading
 
 MAX_CONN = 100  # 设置连接的数量
 PORT = 80  # 设置端口号 
-HOST = "172.67.182.202"  # 设置IP地址
+HOST = " 107.174.242.50"  # 设置IP地址
 PAGE = "/DVWA"
 
 buf = ("GET %s HTTP/1.1\r\n"
